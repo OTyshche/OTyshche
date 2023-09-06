@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OTyshche
+- 👀 I’m interested in Web programming
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me [...](https://www.linkedin.com/in/oleksandr-tyshchenko-671987265/)
